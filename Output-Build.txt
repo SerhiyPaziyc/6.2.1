@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: UnitTest1, Configuration: Debug Win32 ------
+1>pch.cpp
+1>UnitTest1.cpp
+1>   Creating library C:\Users\LENOVO\source\repos\6.2.1\Debug\UnitTest1.lib and object C:\Users\LENOVO\source\repos\6.2.1\Debug\UnitTest1.exp
+1>UnitTest1.vcxproj -> C:\Users\LENOVO\source\repos\6.2.1\Debug\UnitTest1.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
